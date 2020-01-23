@@ -1,0 +1,1 @@
+<marquee behavior="alternative" style="color:blue";><h1>Welcome to AWS</h1></marquee>
